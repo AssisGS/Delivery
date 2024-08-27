@@ -1,0 +1,46 @@
+* {
+        font-family: "Italiana", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+body{
+    background-image:url(Fundo\ inicio.png) ;
+    background-size: cover;
+    height: 100vh;
+}
+#Título{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+#Título h1{
+    font-weight: 600;
+    color: #EABE82;
+    font-size: 98px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 8px;
+}
+
+#cabecalho
+{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0%);
+    color: #EABE82;
+    margin-left: 380px;
+    padding-top: 20px;
+    margin-right: 150px;
+
+    
+}
+header{
+    display: flex;
+    flex-direction: row;
+
+
+}
